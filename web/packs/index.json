@@ -1,6 +1,7 @@
 {
   "packs": [
-    "House_M_D.json"
+    "House_M_D.json",
+    "Walter_White.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
